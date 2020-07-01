@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF 8">
+        <title> Life of Zyrel </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i,900,900i">
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href= "1debug.css">
+        <link rel="stylesheet" href= "article.css">
+        <link rel="stylesheet" href= "article images.css">
+
+    
+        <style>
+
+article {margin-bottom: 4.0rem;}
+ 
+h1 {font: 700 3.0rem/1.2 "Fantasy"; }
+h2 {font: 400 2.2rem/1.2 "Fantasy"; }
+h3 {font: 400 2.2rem/1.2 "Zapf-Chancery"; color: rgba(41, 168, 147, 0.863); }
+
+
+h1 {margin-bottom: 3.4rem;}
+h1 {margin-left: 25rem;}
+h2 {margin-left: 18rem;}
+h2 {margin-bottom: 2.0rem;}
+h3 {margin-left: 30rem;}
+h3 {margin-bottom: 2.0rem;}
+
+p  {font: 400 1.2rem/1.0"Courier New"; }
+p {display: flex;
+    justify-content: center;
+    align-items: center}
+p {margin-bottom: 1.5rem;}
+
+
+
+a {box-shadow: inset 0 -0.10em hsl(234, 64%, 26%);}
+
+@media (max-width: 8.5in;) {:root { font-size: 18px:}}
+@media (max-width: 5.0in;) {:root { font-size: 16px:}}
+
+
+      
+      </style>
+
+    <article>
+        <h1><a href="LIFE OF ZY"><strong>LIFE OF ZY</strong> </h1>
+
+
+        <h3><a href="Siargao"> Siargao</h3>
+        <img class="size-4" src="img/Surf Background.JPG" > 
+        
+        <h3><a href="Cebu"> Cebu</h3>
+        <img class="size-3" src="img/Turtle.jpg.JPG" >
+
+        <h3><a href="Palawan">Palawan</h3>
+        <img class="size-2" src="img/Flick.JPG" > 
+        
+        <h3><a href="Coron">Coron </h3>
+        <figure class="size-1"> 
+            <img src="img/Paradise.JPG" > 
+        </figure>
+       
+        </article>
+
+    </head>
+    <body>
+       
+
+        <article>
+            <h2><a href="THE"> "Summary of my Trip (NOV 2019)" </h2>
+
+            
+        
+            <p>
+                Surfing had to be the highlight of my trip. I came to Siargao with only one intention, learn how to surf. I dropped off mhy gear at the hostel and proceeded to grab a trike to the beach. I went to rocking horse beach and it was full of instructors. I was looking around looking for a good price and eventually I ended up talking to this dude who reminded me of the chicken from Surfs Up. He gave me a 5 minute crash course on how to surf and just took me out on the water
+
+            </p>
+            <p>Click on the words to watch some highlights</p>
+            <p><strong><a href="https://youtu.be/OkGFDUNE2tI">YERR</a></strong></p>
+            <p><strong><a href="https://youtu.be/V4rhTCag9Cs">It was a lit catch</a></strong></p> 
+            <p><strong><a href="https://youtu.be/DUv5m37Oawg"></a></strong> </p>
+            <p><strong><a href="https://youtu.be/C0lmI5clpxs">Baby waves</a></strong></p>
+           
+
+
+           
+
+
+        </article>
+
+        <article>
+            <h5>Cebu</h5>
+
+
+
+
+        </article>
+
+
+
+
+    </body>
+</html>
+        
+
